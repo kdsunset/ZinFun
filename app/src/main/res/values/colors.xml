@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--PagerSlidingTabStrip-->
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <!--头像边框-->
+    <color name="primary_light">#B2DFDB</color>
+    <color name="font_light">#464e76</color>
+</resources>
